@@ -12,7 +12,7 @@
 				</div>
 				<div class="col-md-6 banner-right simpleCart_shelfItem">
 					<span class="bann-heart"> </span>
-					<h2>Handbags</h2>
+					<h2>Handbags one</h2>
 					<h1>Sed perspiciatis unde</h1>
 					<h5 class="item_price">$200.00</h5>
 					<ul class="bann-small-img">
